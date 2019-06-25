@@ -1,4 +1,4 @@
-id: ms-kubernetes-tools.vscode-kubernetes-tools
+id: ms-kubernetes-tools.kubernetes-tools
 version: 0.1.17
 type: VS Code extension
 name: Kubernetes
